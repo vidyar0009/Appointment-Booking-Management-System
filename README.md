@@ -13,6 +13,11 @@ Manual Tests: Targeted specific functionalities.
 Automated Tests: Used frameworks to test email notifications and slot management.
   
 Results
+Bugs:
+Duplicate user registrations.
+Appointment rescheduling issues.
+Code Coverage: 96% (4% untested).
+
 Running Tests
 1. Clone and install dependencies:
    bash
